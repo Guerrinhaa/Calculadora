@@ -13,8 +13,10 @@ Tkinter: Framework Python usado para criar a interface gráfica do usuário
 Ter instalado Python na versão 3.12.5 (então não podemos garantir que versões anteriores funcionem).
 
 '%' = porcentagem;
-'x' = multiplicação
+'*' = multiplicação
 '-' = subtração;
 '+' = adição;
+'/' = divisão;
 'c' = limpar a tela;
-'←' = apagar último número
+'=' = Resultado;
+
